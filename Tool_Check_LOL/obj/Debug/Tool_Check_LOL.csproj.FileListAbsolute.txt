@@ -1,0 +1,25 @@
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Tool_Check_LOL.exe.config
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Tool_Check_LOL.exe
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Tool_Check_LOL.pdb
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.Form1.resources
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.Properties.Resources.resources
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.csproj.CopyComplete
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.exe
+C:\Users\Admin\source\repos\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.pdb
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Tool_Check_LOL.exe.config
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Tool_Check_LOL.exe
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Tool_Check_LOL.pdb
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.Form1.resources
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.exe
+C:\Users\Windows 10\Desktop\Tool_Check_LOL\Tool_Check_LOL\obj\Debug\Tool_Check_LOL.pdb
